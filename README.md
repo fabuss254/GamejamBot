@@ -13,17 +13,17 @@ TLDR: This bot was made in about 6 hours. Expect bugs, exploit and badly designe
 # How to install and configure:
 
 
-To run the bot, you need Node v16: https://nodejs.org/dist/v16.16.0/node-v16.16.0-x64.msi
+To run the bot, you need Node v16: https://nodejs.org/dist/v16.16.0/node-v16.16.0-x64.msi.
 
-After the installation is complete, go to the main folder with the console and run the command ``$ npm i``. This will install all dependencies
+After the installation is complete, go to the main folder with the console and run the command ``$ npm i``. This will install all dependencies.
 
-You then need to change the token at the bottom of the page of server.js
+You then need to change the token at the bottom of the page of server.js.
 
 
 # How to run
 
 
-To run the bot, you simply need to ``$ node server.js``
+To run the bot, you simply need to ``$ node server.js``.
 
 # Extra
 
