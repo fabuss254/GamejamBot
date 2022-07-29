@@ -5,7 +5,7 @@ This bot has been made by Fabuss254#0001 during the DarkMango gamejam of 2022.
 
 Feel free to use and modify this bot !
 
-NO SUPPORT WILL BE GIVEN ON ANY ASPECT OF THIS BOT, YOU'RE ON YOUR OWN !
+**NO SUPPORT WILL BE GIVEN ON ANY ASPECT OF THIS BOT, YOU'RE ON YOUR OWN !**
 
 TLDR: This bot was made in about 6 hours. Expect bugs, exploit and badly designed code !
 
